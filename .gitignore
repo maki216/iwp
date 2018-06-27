@@ -1,0 +1,17 @@
+#Do not include a single file from .idea directory
+.idea/*
+
+## File-based project format:
+*.iws
+*.ipr
+
+#Idea modules
+*.iml
+
+## Plugin-specific files:
+
+# IntelliJ
+/out/
+
+# mpeltonen/sbt-idea plugin
+.idea_modules/
